@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iptvscanner_win64_qwerttvv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iptvscanner_win64_qwerttvv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
