@@ -35,7 +35,7 @@ http://192.168.31.55:4022/rtp/228.1.1.24:8084
 http://192.168.31.55:4022/rtp/228.1.1.191:8002
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道",CCTV-4 中文国际[高清]
 http://192.168.31.55:4022/rtp/228.1.1.25:8092
-#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道",CCTV-4 欧洲[高清]
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道",CCTV-4 中文国际 欧洲[高清]
 http://192.168.31.55:4022/rtp/228.1.1.213:4220
 #EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道",CCTV-4 中文国际 美洲[高清]
 http://192.168.31.55:4022/rtp/228.1.1.203:4220
@@ -213,23 +213,23 @@ http://192.168.31.55:4022/rtp/228.1.1.53:8140
 http://192.168.31.55:4022/rtp/228.1.1.60:8184
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 http://192.168.31.55:4022/rtp/228.1.1.59:8176
-#EXTINF:-1 tvg-name="朝阳" group-title="北京地方频道",朝阳融媒[高清]
+#EXTINF:-1 tvg-name="朝阳融媒" group-title="北京地方频道",朝阳融媒[高清]
 http://192.168.31.55:4022/rtp/228.1.1.140:8001
-#EXTINF:-1 tvg-name="通州" group-title="北京地方频道",通州融媒[高清]
+#EXTINF:-1 tvg-name="通州融媒" group-title="北京地方频道",通州融媒[高清]
 http://192.168.31.55:4022/rtp/228.1.1.63:8002
-#EXTINF:-1 tvg-name="密云" group-title="北京地方频道",密云电视台[高清]
+#EXTINF:-1 tvg-name="密云电视台" group-title="北京地方频道",密云电视台[高清]
 http://192.168.31.55:4022/rtp/228.1.1.62:8002
-#EXTINF:-1 tvg-name="房山" group-title="北京地方频道",房山电视台[高清]
+#EXTINF:-1 tvg-name="房山电视台" group-title="北京地方频道",房山电视台[高清]
 http://192.168.31.55:4022/rtp/228.1.1.139:8001
-#EXTINF:-1 tvg-name="门头沟" group-title="北京地方频道",门头沟电视台[高清]
+#EXTINF:-1 tvg-name="门头沟电视台" group-title="北京地方频道",门头沟电视台[高清]
 http://192.168.31.55:4022/rtp/228.1.1.64:8002
-#EXTINF:-1 tvg-name="平谷" group-title="北京地方频道",平谷融媒[高清]
+#EXTINF:-1 tvg-name="平谷融媒" group-title="北京地方频道",平谷融媒[高清]
 http://192.168.31.55:4022/rtp/228.1.1.50:8002
-#EXTINF:-1 tvg-name="延庆" group-title="北京地方频道",延庆电视台
+#EXTINF:-1 tvg-name="延庆电视台" group-title="北京地方频道",延庆电视台
 http://192.168.31.55:4022/rtp/228.1.1.219:8002
 # #EXTINF:-1 tvg-name="法治天地",法治天地[高清]
 # http://192.168.31.55:4022/rtp/228.1.1.230:8002
-#EXTINF:-1 tvg-name="中国交通" group-title="IPTV频道",中国交通[高清]
+#EXTINF:-1 tvg-name="中国交通" group-title="交通频道",中国交通[高清]
 http://192.168.31.55:4022/rtp/228.1.1.222:8002
 #EXTINF:-1 tvg-name="IPTV少儿动画" group-title="IPTV频道",少儿动画[高清]
 http://192.168.31.55:4022/rtp/228.1.1.83:9000
@@ -261,21 +261,21 @@ http://192.168.31.55:4022/rtp/228.1.1.207:4220
 http://192.168.31.55:4022/rtp/228.1.1.208:4220
 #EXTINF:-1 tvg-name="CGTN俄语" group-title="央视频道",CGTN 俄语[高清]
 http://192.168.31.55:4022/rtp/228.1.1.209:4220
-#EXTINF:-1 tvg-name="睛彩竞技" group-title="IPTV频道",睛彩竞技[高清]
+#EXTINF:-1 tvg-name="睛彩竞技" group-title="体育频道",睛彩竞技[高清]
 http://192.168.31.55:4022/rtp/228.1.1.223:8002
-#EXTINF:-1 tvg-name="睛彩篮球" group-title="IPTV频道",睛彩篮球[高清]
+#EXTINF:-1 tvg-name="睛彩篮球" group-title="体育频道",睛彩篮球[高清]
 http://192.168.31.55:4022/rtp/228.1.1.224:8002
-#EXTINF:-1 tvg-name="睛彩青少" group-title="IPTV频道",睛彩青少[高清]
+#EXTINF:-1 tvg-name="睛彩青少" group-title="体育频道",睛彩青少[高清]
 http://192.168.31.55:4022/rtp/228.1.1.225:8002
-#EXTINF:-1 tvg-name="睛彩广场舞" group-title="IPTV频道",睛彩广场舞[高清]
+#EXTINF:-1 tvg-name="睛彩广场舞" group-title="体育频道",睛彩广场舞[高清]
 http://192.168.31.55:4022/rtp/228.1.1.226:8002
-# #EXTINF:-1 tvg-name="魅力足球" group-title="IPTV频道",魅力足球[高清]
+# #EXTINF:-1 tvg-name="魅力足球" group-title="体育频道",魅力足球[高清]
 # http://192.168.31.55:4022/rtp/228.1.1.233:8002
-#EXTINF:-1 tvg-name="中国天气" group-title="IPTV频道",中国天气[高清]
+#EXTINF:-1 tvg-name="中国天气" group-title="天气频道",中国天气[高清]
 http://192.168.31.55:4022/rtp/228.1.1.145:8002
 # #EXTINF:-1 tvg-name="北京淘精彩",淘精彩[高清]
 # http://192.168.31.55:4022/rtp/228.1.1.202:8002
-#EXTINF:-1 tvg-name="四海钓鱼" group-title="IPTV频道",四海钓鱼[高清]
+#EXTINF:-1 tvg-name="四海钓鱼" group-title="体育频道",四海钓鱼[高清]
 http://192.168.31.55:4022/rtp/228.1.1.144:8002
 # #EXTINF:-1 tvg-name="生活时尚",生活时尚[高清]
 # http://192.168.31.55:4022/rtp/228.1.1.228:8002
@@ -319,11 +319,11 @@ http://192.168.31.55:4022/rtp/228.1.1.97:4120
 # http://192.168.31.55:4022/rtp/228.1.1.98:4120
 #EXTINF:-1 tvg-name="CETV4" group-title="教育频道",CETV4
 http://192.168.31.55:4022/rtp/228.1.1.99:4120
-#EXTINF:-1 tvg-name="金鹰卡通" group-title="湖南频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="教育频道",金鹰卡通
 http://192.168.31.55:4022/rtp/228.1.1.92:9252
-#EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东频道",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" group-title="教育频道",嘉佳卡通
 http://192.168.31.55:4022/rtp/228.1.1.93:9268
-#EXTINF:-1 tvg-name="山东教育" group-title="山东频道",山东教育
+#EXTINF:-1 tvg-name="山东教育" group-title="教育频道",山东教育
 http://192.168.31.55:4022/rtp/228.1.1.96:4120
 # #EXTINF:-1 tvg-name="该频道节目单尚无",财富天下
 # http://192.168.31.55:4022/rtp/228.1.1.90:9136
