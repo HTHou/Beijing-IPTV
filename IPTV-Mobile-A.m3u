@@ -221,7 +221,7 @@ http://192.168.31.55:4022/rtp/228.1.1.165:4120
 http://192.168.31.55:4022/rtp/228.1.1.172:4120
 #EXTINF:-1 tvg-name="家庭影院" group-title="影视轮播频道",家庭影院[高清]
 http://192.168.31.55:4022/rtp/228.1.1.174:4120
-#EXTINF:-1 channel-number="358" tvg-id="358" tvg-name="精选" tvg-logo="https://butv.0w0.ltd/img/QiTa/IPTV_JingXuan.png" group-title="影视轮播频道",精选[高清]
+#EXTINF:-1 channel-number="358" tvg-id="358" tvg-name="精选" group-title="影视轮播频道",精选
 http://192.168.31.55:4022/rtp/228.1.1.155:4120
 #EXTINF:-1 tvg-name="经典电影" group-title="影视轮播频道",经典电影[高清]
 http://192.168.31.55:4022/rtp/228.1.1.89:9024
