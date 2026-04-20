@@ -261,7 +261,7 @@ http://192.168.31.55:4022/rtp/228.1.1.148:4120
 http://192.168.31.55:4022/rtp/228.1.1.171:4120
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://butv.0w0.ltd/img/QiTa/IPTV_MeiLiShiShang.png" group-title="影视轮播频道",魅力时尚[高清]
 http://192.168.31.55:4022/rtp/228.1.1.86:9012
-#EXTINF:-1 tvg-name="红色影院" group-title="影视轮播频道",红色影院[高清]
+#EXTINF:-1 tvg-name="红色影院" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/IPTV%E7%BA%A2%E8%89%B2%E5%BD%B1%E9%99%A2.png" group-title="影视轮播频道",红色影院[高清]
 http://192.168.31.55:4022/rtp/228.1.1.169:4120
 #EXTINF:-1 tvg-name="CGTN" group-title="央视频道",CGTN 新闻[高清]
 http://192.168.31.55:4022/rtp/228.1.1.204:4220
