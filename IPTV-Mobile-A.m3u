@@ -179,7 +179,7 @@ http://192.168.31.55:4022/rtp/228.1.1.124:8001
 http://192.168.31.55:4022/rtp/228.1.1.126:8001
 #EXTINF:-1 tvg-name="淘娱乐" group-title="北京频道",淘娱乐[高清]
 http://192.168.31.55:4022/rtp/228.1.1.133:8001
-#EXTINF:-1 tvg-name="淘Baby" group-title="北京频道",淘Baby[高清]
+#EXTINF:-1 tvg-name="淘Baby" group-title="北京频道",淘Baby
 http://192.168.31.55:4022/rtp/228.1.1.128:8001
 #EXTINF:-1 tvg-name="萌宠TV" group-title="北京频道",萌宠TV[高清]
 http://192.168.31.55:4022/rtp/228.1.1.135:8002
