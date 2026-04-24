@@ -300,7 +300,7 @@ http://192.168.31.55:4022/rtp/228.1.1.225:8002
 http://192.168.31.55:4022/rtp/228.1.1.226:8002
 #EXTINF:-1 tvg-name="四海钓鱼" group-title="体育频道",四海钓鱼[高清]
 http://192.168.31.55:4022/rtp/228.1.1.144:8002
-#EXTINF:-1 tvg-name="解密" tvg-logo="https://butv.0w0.ltd/img/QiTa/IPTV_JeiMi.png" group-title="轮播频道",解密[高清]
+#EXTINF:-1 tvg-name="解密" tvg-logo="https://butv.0w0.ltd/img/QiTa/IPTV_JieMi.png" group-title="轮播频道",解密[高清]
 http://192.168.31.55:4022/rtp/228.1.1.156:4120
 #EXTINF:-1 tvg-name="军事" group-title="轮播频道",军事[高清]
 http://192.168.31.55:4022/rtp/228.1.1.157:4120
