@@ -99,19 +99,19 @@ http://192.168.31.55:4022/rtp/228.1.1.47:3000
 # http://192.168.31.55:4022/rtp/228.1.1.17:8048
 #EXTINF:-1 tvg-name="安徽卫视高清" group-title="卫视频道",安徽卫视
 http://192.168.31.55:4022/rtp/228.1.1.21:8064
-#EXTINF:-1 tvg-name="天津卫视高清" group-title="卫视频道",天津卫视
+#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道",天津卫视
 http://192.168.31.55:4022/rtp/228.1.1.15:1234
-#EXTINF:-1 tvg-name="重庆卫视高清" group-title="卫视频道",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
 http://192.168.31.55:4022/rtp/228.1.1.210:8160
 # #EXTINF:-1 tvg-name="山东卫视高清" group-title="卫视频道",山东卫视
 # http://192.168.31.55:4022/rtp/228.1.1.18:8052
 #EXTINF:-1 tvg-name="黑龙江卫视高清" group-title="卫视频道",黑龙江卫视
 http://192.168.31.55:4022/rtp/228.1.1.35:8016
-#EXTINF:-1 tvg-name="河北卫视高清" group-title="卫视频道",河北卫视
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道",河北卫视
 http://192.168.31.55:4022/rtp/228.1.1.187:8072
 #EXTINF:-1 tvg-name="河南卫视高清" group-title="卫视频道",河南卫视
 http://192.168.31.55:4022/rtp/228.1.1.236:8184
-#EXTINF:-1 tvg-name="辽宁卫视高清" group-title="卫视频道",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
 http://192.168.31.55:4022/rtp/228.1.1.19:8056
 #EXTINF:-1 tvg-name="湖北卫视高清" group-title="卫视频道",湖北卫视
 http://192.168.31.55:4022/rtp/228.1.1.16:8044
@@ -123,7 +123,7 @@ http://192.168.31.55:4022/rtp/228.1.1.188:8076
 http://192.168.31.55:4022/rtp/228.1.1.185:8148
 #EXTINF:-1 tvg-name="江西卫视高清" group-title="卫视频道",江西卫视
 http://192.168.31.55:4022/rtp/228.1.1.211:8164
-#EXTINF:-1 tvg-name="甘肃卫视高清" group-title="卫视频道",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道",甘肃卫视
 http://192.168.31.55:4022/rtp/228.1.1.242:8180
 #EXTINF:-1 tvg-name="兵团卫视高清" group-title="卫视频道",兵团卫视
 http://192.168.31.55:4022/rtp/228.1.1.243:8196
@@ -235,17 +235,17 @@ http://192.168.31.55:4022/rtp/228.1.1.34:8156
 http://192.168.31.55:4022/rtp/228.1.1.92:9252
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="教育频道",嘉佳卡通
 http://192.168.31.55:4022/rtp/228.1.1.93:9268
-#EXTINF:-1 tvg-name="北京IPTV4K超清" group-title="轮播频道",北京IPTV4K
+#EXTINF:-1 tvg-name="北京IPTV4K超清" group-title="轮播频道",北京4K超清
 http://192.168.31.55:4022/rtp/228.1.1.123:8001
-#EXTINF:-1 tvg-name="淘电影" group-title="轮播频道",淘电影
+#EXTINF:-1 tvg-name="淘电影" group-title="轮播频道",北京淘电影
 http://192.168.31.55:4022/rtp/228.1.1.124:8001
-#EXTINF:-1 tvg-name="淘剧场" group-title="轮播频道",淘剧场
+#EXTINF:-1 tvg-name="淘剧场" group-title="轮播频道",北京淘剧场
 http://192.168.31.55:4022/rtp/228.1.1.126:8001
-#EXTINF:-1 tvg-name="淘Baby" group-title="轮播频道",淘Baby
+#EXTINF:-1 tvg-name="淘Baby" group-title="轮播频道",北京淘Baby
 http://192.168.31.55:4022/rtp/228.1.1.128:8001
-#EXTINF:-1 tvg-name="淘娱乐" group-title="轮播频道",淘娱乐
+#EXTINF:-1 tvg-name="淘娱乐" group-title="轮播频道",北京淘娱乐
 http://192.168.31.55:4022/rtp/228.1.1.133:8001
-#EXTINF:-1 tvg-name="萌宠TV" group-title="轮播频道",萌宠TV
+#EXTINF:-1 tvg-name="萌宠TV" group-title="轮播频道",北京萌宠TV
 http://192.168.31.55:4022/rtp/228.1.1.135:8002
 #EXTINF:-1 tvg-name="收视指南" group-title="轮播频道",收视指南
 http://192.168.31.55:4022/rtp/228.1.1.108:8012
