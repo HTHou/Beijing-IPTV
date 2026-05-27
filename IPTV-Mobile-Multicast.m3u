@@ -255,9 +255,9 @@ rtp://228.1.1.175:4120
 rtp://228.1.1.38:2000
 #EXTINF:-1 tvg-id="36" tvg-name="求索纪录4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%954K.png" group-title="体验频道",求索4K
 rtp://228.1.1.67:8002
-#EXTINF:-1 tvg-id="79" tvg-name="中国交通" tvg-logo="https://butv.0w0.ltd/img/QiTa/ZhongGuoJiaoTong.png" group-title="付费频道",中国交通
+#EXTINF:-1 tvg-id="79" tvg-name="中国交通" tvg-logo="https://butv.0w0.ltd/img/QiTa/ZhongGuoJiaoTong.png" group-title="体验频道",中国交通
 rtp://228.1.1.222:8002
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://kakaxi.indevs.in/LOGO/CHC动作电影.png" group-title="付费频道",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://kakaxi.indevs.in/LOGO/CHC动作电影.png" group-title="体验频道",CHC动作电影
 rtp://228.1.1.238:7000
 #EXTINF:-1 tvg-id="320" tvg-name="四海钓鱼" tvg-logo="https://kakaxi.indevs.in/LOGO/四海钓鱼.png" group-title="体验频道",四海钓鱼
 rtp://228.1.1.144:8002
@@ -265,15 +265,15 @@ rtp://228.1.1.144:8002
 rtp://228.1.1.145:8002
 #EXTINF:-1 tvg-id="323" tvg-name="环球旅游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/%E5%8C%97%E5%B9%BF%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8.png" group-title="体验频道",环球旅游
 rtp://228.1.1.68:8002
-#EXTINF:-1 tvg-name="证券服务" tvg-logo="https://butv.0w0.ltd/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="付费频道",证券服务
+#EXTINF:-1 tvg-name="证券服务" tvg-logo="https://butv.0w0.ltd/img/QiTa/GanSu_ZhengQuanFuWu.png" group-title="体验频道",证券服务
 rtp://228.1.1.51:8002
-#EXTINF:-1 tvg-id="66" tvg-name="睛彩竞技" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiJingJi.png" group-title="付费频道",睛彩竞技
+#EXTINF:-1 tvg-id="66" tvg-name="睛彩竞技" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiJingJi.png" group-title="体验频道",睛彩竞技
 rtp://228.1.1.223:8002
-#EXTINF:-1 tvg-id="67" tvg-name="睛彩篮球" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiLanQiu.png" group-title="付费频道",睛彩篮球
+#EXTINF:-1 tvg-id="67" tvg-name="睛彩篮球" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiLanQiu.png" group-title="体验频道",睛彩篮球
 rtp://228.1.1.224:8002
-#EXTINF:-1 tvg-id="68" tvg-name="睛彩青少" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiQingShao.png" group-title="付费频道",睛彩青少
+#EXTINF:-1 tvg-id="68" tvg-name="睛彩青少" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiQingShao.png" group-title="体验频道",睛彩青少
 rtp://228.1.1.225:8002
-#EXTINF:-1 tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="付费频道",睛彩广场舞
+#EXTINF:-1 tvg-id="69" tvg-name="睛彩广场舞" tvg-logo="https://butv.0w0.ltd/img/QiTa/CBC_JingCaiGuangChangWu.png" group-title="体验频道",睛彩广场舞
 rtp://228.1.1.226:8002
 #EXTINF:-1 tvg-id="46" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视高清
 rtp://228.1.1.13:8036
