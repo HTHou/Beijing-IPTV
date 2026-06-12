@@ -153,7 +153,7 @@ http://192.168.31.55:4022/rtp/228.1.1.111:8000
 http://192.168.31.55:4022/rtp/228.1.1.139:8001
 #EXTINF:-1 tvg-name="北京朝阳" tvg-logo="https://butv.0w0.ltd/img/QiTa/QuXian_ChaoYang.png" group-title="区县频道",北京朝阳
 http://192.168.31.55:4022/rtp/228.1.1.140:8001
-#EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://butv.0w0.ltd/img/QiTa/QuXian_MiYun.png" group-title="区县频道",密云电视台
+#EXTINF:-1 tvg-name="密云电视台" tvg-logo="https://raw.githubusercontent.com/HTHou/Beijing-IPTV/refs/heads/ht/master/logo/MiYun.png" group-title="区县频道",密云电视台
 http://192.168.31.55:4022/rtp/228.1.1.62:8002
 #EXTINF:-1 tvg-name="通州电视台" tvg-logo="https://butv.0w0.ltd/img/QiTa/QuXian_TongZhou.png" group-title="区县频道",通州电视台
 http://192.168.31.55:4022/rtp/228.1.1.63:8002
