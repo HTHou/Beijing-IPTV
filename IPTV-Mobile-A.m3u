@@ -133,6 +133,8 @@ http://192.168.31.55:4022/rtp/228.1.1.51:8002
 http://192.168.31.55:4022/rtp/228.1.1.234:8002
 #EXTINF:-1 tvg-id="85" tvg-name="CCTV4K" tvg-logo="https://butv.0w0.ltd/img/CCTV/CCTV-4K.png" group-title="CCTV频道",CCTV4K超高清
 http://192.168.31.55:4022/rtp/228.1.1.52:2000
+#EXTINF:-1 tvg-id="113" tvg-name="CCTV13" tvg-logo="https://butv.0w0.ltd/img/CCTV/CCTV-13.png" group-title="央视频道",CCTV-13
+http://192.168.31.55:4022/rtp/228.1.1.42:8264
 #EXTINF:-1 tvg-id="121" tvg-name="北京卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/BeiJing.png" group-title="BRTV频道",BRTV北京卫视
 http://192.168.31.55:4022/rtp/228.1.1.109:8000
 #EXTINF:-1 tvg-id="122" tvg-name="北京文艺" tvg-logo="https://butv.0w0.ltd/img/BRTV/BRTV_WenYi.png" group-title="BRTV频道",BRTV文艺
@@ -167,12 +169,20 @@ http://192.168.31.55:4022/rtp/228.1.1.59:8176
 http://192.168.31.55:4022/rtp/228.1.1.60:8184
 #EXTINF:-1 tvg-id="158" tvg-name="海南卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/HaiNan.png" group-title="卫视频道",海南卫视
 http://192.168.31.55:4022/rtp/228.1.1.81:8304
+#EXTINF:-1 tvg-id="159" tvg-name="宁夏卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/NingXia.png" group-title="卫视频道",宁夏卫视
+http://192.168.31.55:4022/rtp/228.1.1.49:8124
+#EXTINF:-1 tvg-id="160" tvg-name="西藏卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/XiZang.png" group-title="卫视频道",西藏卫视
+http://192.168.31.55:4022/rtp/228.1.1.57:8164
+#EXTINF:-1 tvg-id="161" tvg-name="新疆卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/XinJiang.png" group-title="卫视频道",新疆卫视
+http://192.168.31.55:4022/rtp/228.1.1.56:8160
 #EXTINF:-1 tvg-id="163" tvg-name="三沙卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/SanSha.png" group-title="卫视频道",三沙卫视
 http://192.168.31.55:4022/rtp/228.1.1.186:4120
 #EXTINF:-1 tvg-id="164" tvg-name="云南卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/YunNan.png" group-title="卫视频道",云南卫视
 http://192.168.31.55:4022/rtp/228.1.1.44:8108
 #EXTINF:-1 tvg-id="166" tvg-name="厦门卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/XiaMen.png" group-title="卫视频道",厦门卫视
 http://192.168.31.55:4022/rtp/228.1.1.176:4120
+#EXTINF:-1 tvg-id="167" tvg-name="兵团卫视" tvg-logo="https://butv.0w0.ltd/img/WeiShi/BingTuan.png" group-title="卫视频道",兵团卫视
+http://192.168.31.55:4022/rtp/228.1.1.177:4120
 #EXTINF:-1 tvg-id="169" tvg-name="金鹰卡通" tvg-logo="https://butv.0w0.ltd/img/QiTa/HuNan_JinYingKaTong.png" group-title="卫视频道",金鹰卡通
 http://192.168.31.55:4022/rtp/228.1.1.92:9252
 #EXTINF:-1 tvg-id="170" tvg-name="嘉佳卡通" tvg-logo="https://butv.0w0.ltd/img/QiTa/JiaJiaKaTong.png" group-title="卫视频道",嘉佳卡通
